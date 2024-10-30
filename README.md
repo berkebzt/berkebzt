@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Berke Deniz
 - 👀 I’m interested in DataScience and Machine Learning,AI
-- 🌱 I’m currently learning Computer Vision
+- 🌱 Currently doing MSc in AI in Uni of York
 - 📫 berkebzt@gmail.com
