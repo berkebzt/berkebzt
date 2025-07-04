@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Berke Deniz
-- 👀 I’m interested in DataScience and Machine Learning,AI
-- 🌱 Currently doing MSc in AI 
+- 👋 Hi, I’m Berke!
+- 👀 I’m interested in Data Science ML&AI and Constraint Programming
+- 🌱 Currently pursuing MSc in AI 
 - 📫 berkebzt@gmail.com
