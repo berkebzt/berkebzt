@@ -1,6 +1,6 @@
 👋 Hi, I’m Berke!
 
-🎓 I’m an **AI Engineer & Data Scientist** with an MSc in **Artificial Intelligence** from the **University of York**.  
+🎓 I’m an **AI/ML Engineer & Data Scientist** with an MSc in **Artificial Intelligence** from the **University of York**.  
 
 🧠 My work bridges **deep learning research** and **practical AI applications**, with a focus on explainable models, generative systems, and constraint-based reasoning.
 
