@@ -82,21 +82,6 @@ This project investigates **alternative neuron aggregation mechanisms** beyond t
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=berkebzt&show_icons=true&rank_icon=github&hide_title=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkebzt&layout=compact&hide_title=true" />
-
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=berkebzt" />
-</div>
-
----
-
 ## 🤝 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/berkebozyigit/
 - ✉️ Email: berkebzt@gmail.com
