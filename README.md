@@ -9,8 +9,8 @@ Research-oriented engineer working at the intersection of
 **deep learning, explainable AI, and neural architecture design**.
 
 <p>
-  <a href="[https://www.linkedin.com/in/berkebozgiyit/](https://www.linkedin.com/in/berkebozyigit/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-berkebozgiyit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/berkebozyigit/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-berkebozyigit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:berkebzt@gmail.com">
     <img src="https://img.shields.io/badge/Email-berkebzt@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -51,8 +51,6 @@ This project investigates **alternative neuron aggregation mechanisms** beyond t
 - Evaluated on supervised learning benchmarks
 - Implemented in **PyTorch**
 - Focus on **theoretical motivation + empirical validation**
-
-> This work reflects my interest in *neural architecture research* and *foundational deep learning questions*.
 
 ---
 
@@ -100,5 +98,5 @@ This project investigates **alternative neuron aggregation mechanisms** beyond t
 ---
 
 ## 🤝 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/berkebozgiyit/
+- 💼 LinkedIn: https://www.linkedin.com/in/berkebozyigit/
 - ✉️ Email: berkebzt@gmail.com
