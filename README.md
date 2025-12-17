@@ -9,7 +9,7 @@ Research-oriented engineer working at the intersection of
 **deep learning, explainable AI, and neural architecture design**.
 
 <p>
-  <a href="https://www.linkedin.com/in/berkebozgiyit/" target="_blank">
+  <a href="[https://www.linkedin.com/in/berkebozgiyit/](https://www.linkedin.com/in/berkebozyigit/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-berkebozgiyit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:berkebzt@gmail.com">
