@@ -22,7 +22,7 @@ Research-oriented engineer working at the intersection of
 
 ---
 
-## 🧠 About Me
+## About Me
 I’m an **AI/ML Engineer & Data Scientist** with an academic background in Artificial Intelligence.  
 My work focuses on **understanding and improving how neural networks learn**, not just using them as black boxes.
 
@@ -33,9 +33,9 @@ I’m especially interested in:
 
 ---
 
-## ⭐ Featured Project
+## Featured Project
 
-### 🧬 Novel Artificial Neurons  
+### Novel Artificial Neurons  
 **MSc Dissertation Project**
 
 🔗 **Repository:**  
@@ -55,22 +55,22 @@ This project investigates **alternative neuron aggregation mechanisms** beyond t
 ---
 
 ## 🔎 Research & Technical Interests
-- 🤖 Machine Learning, Deep Learning, LLM-based Systems  
-- 🧩 Neural Architectures & Representation Learning  
-- 🧠 Explainable AI & Interpretability  
-- 🧮 Constraint Programming & AI Search  
-- 🔗 Retrieval-Augmented Generation (RAG) & Agentic AI  
+- Machine Learning, Deep Learning, LLM-based Systems  
+- Neural Architectures & Representation Learning  
+- Explainable AI & Interpretability  
+- Constraint Programming & AI Search  
+- Retrieval-Augmented Generation (RAG) & Agentic AI  
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,flask,js,ts,docker,git,linux,postgresql&perline=11" />
 </div>
 
 <details>
-<summary><b>🧩 Libraries & Tools</b></summary>
+<summary><b> Libraries & Tools</b></summary>
 
 - **Languages:** Python, SQL, JavaScript  
 - **ML / DL:** PyTorch, TensorFlow, Scikit-learn, Keras  
@@ -82,6 +82,6 @@ This project investigates **alternative neuron aggregation mechanisms** beyond t
 
 ---
 
-## 🤝 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/berkebozyigit/
-- ✉️ Email: berkebzt@gmail.com
+## Connect With Me
+- 💼: https://www.linkedin.com/in/berkebozyigit/
+- ✉️: berkebzt@gmail.com
