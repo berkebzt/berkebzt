@@ -67,9 +67,39 @@ This project investigates **alternative neuron aggregation mechanisms** beyond t
 ## Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts,sql,pytorch,tensorflow,sklearn,opencv,jupyter,fastapi,flask,nodejs,postgresql,docker,git,linux,vscode&perline=8" />
-</div>
 
+<!-- Core (skillicons) -->
+<img src="https://skillicons.dev/icons?i=python,js,ts,pytorch,tensorflow,sklearn,opencv,fastapi,flask,nodejs,postgres,docker,git,linux,vscode&perline=8" />
+
+<br/><br/>
+
+<!-- AI / Research (custom SVG + simpleicons) -->
+<p>
+  <!-- Custom SVGs (repo içinden) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/rag-dark.svg">
+    <img alt="RAG" src="./assets/icons/rag-light.svg" height="46">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/agentic-dark.svg">
+    <img alt="Agentic AI" src="./assets/icons/agentic-light.svg" height="46">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/xai-dark.svg">
+    <img alt="XAI" src="./assets/icons/xai-light.svg" height="46">
+  </picture>
+
+  <!-- SimpleIcons CDN (dark-mode için açık renk verdim) -->
+  <img alt="Jupyter" height="46" src="https://cdn.simpleicons.org/jupyter/F9AB00" />
+  <img alt="Google Colab" height="46" src="https://cdn.simpleicons.org/googlecolab/F9AB00" />
+  <img alt="Hugging Face" height="46" src="https://cdn.simpleicons.org/huggingface/FFD21E" />
+  <img alt="Weights & Biases" height="46" src="https://cdn.simpleicons.org/weightsandbiases/FFBE00" />
+  <img alt="OpenAI" height="46" src="https://cdn.simpleicons.org/openai/FFFFFF" />
+</p>
+
+</div>
 <details>
 <summary><b>Libraries & Tools</b></summary>
 
