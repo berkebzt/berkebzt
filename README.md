@@ -68,65 +68,23 @@ This project investigates **alternative neuron aggregation mechanisms** beyond t
 
 <div align="center">
 
-<!-- Core Technologies (skillicons - stable) -->
+<!-- Core Technologies -->
 <img src="https://skillicons.dev/icons?i=python,js,ts,pytorch,tensorflow,sklearn,opencv,fastapi,flask,nodejs,postgres,docker,git,linux,vscode&perline=8" />
 
 <br/><br/>
 
-<!-- AI / Research Areas (custom SVG + simpleicons) -->
+<!-- AI / Research / Platforms -->
 <p>
-
-  <!-- Custom Research Icons (Light/Dark auto swap) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/rag-dark.svg">
-    <img src="./assets/icons/rag-light.svg" height="46" alt="RAG"/>
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/agentic-dark.svg">
-    <img src="./assets/icons/agentic-light.svg" height="46" alt="Agentic AI"/>
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/xai-dark.svg">
-    <img src="./assets/icons/xai-light.svg" height="46" alt="Explainable AI"/>
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/diffusion-dark.svg">
-    <img src="./assets/icons/diffusion-light.svg" height="46" alt="Diffusion / CV"/>
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/graphml-dark.svg">
-    <img src="./assets/icons/graphml-light.svg" height="46" alt="Graph ML"/>
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/mlops-dark.svg">
-    <img src="./assets/icons/mlops-light.svg" height="46" alt="MLOps"/>
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/rl-dark.svg">
-    <img src="./assets/icons/rl-light.svg" height="46" alt="Reinforcement Learning"/>
-  </picture>
-
-</p>
-
-<br/>
-
-<!-- Libraries & Platforms (SimpleIcons CDN - safe) -->
-<p>
+  <img height="46" src="https://cdn.simpleicons.org/openai/FFFFFF" alt="OpenAI"/>
+  <img height="46" src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="Hugging Face"/>
   <img height="46" src="https://cdn.simpleicons.org/jupyter/F9AB00" alt="Jupyter"/>
   <img height="46" src="https://cdn.simpleicons.org/googlecolab/F9AB00" alt="Google Colab"/>
-  <img height="46" src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="Hugging Face"/>
   <img height="46" src="https://cdn.simpleicons.org/weightsandbiases/FFBE00" alt="Weights & Biases"/>
-  <img height="46" src="https://cdn.simpleicons.org/openai/FFFFFF" alt="OpenAI"/>
   <img height="46" src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="Streamlit"/>
 </p>
 
 </div>
+
 <details>
 <summary><b>Libraries & Tools</b></summary>
 
