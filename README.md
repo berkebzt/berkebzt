@@ -15,7 +15,6 @@ Research-oriented engineer working at the intersection of
   <a href="mailto:berkebzt@gmail.com">
     <img src="https://img.shields.io/badge/Email-berkebzt@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=berkebzt&style=for-the-badge" />
 </p>
 
 </div>
@@ -23,6 +22,7 @@ Research-oriented engineer working at the intersection of
 ---
 
 ## About Me
+
 I’m an **AI/ML Engineer & Data Scientist** with an academic background in Artificial Intelligence.  
 My work focuses on **understanding and improving how neural networks learn**, not just using them as black boxes.
 
@@ -55,6 +55,7 @@ This project investigates **alternative neuron aggregation mechanisms** beyond t
 ---
 
 ## 🔎 Research & Technical Interests
+
 - Machine Learning, Deep Learning, LLM-based Systems  
 - Neural Architectures & Representation Learning  
 - Explainable AI & Interpretability  
@@ -66,22 +67,24 @@ This project investigates **alternative neuron aggregation mechanisms** beyond t
 ## Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,flask,js,ts,docker,git,linux,postgresql&perline=11" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,sql,pytorch,tensorflow,sklearn,opencv,jupyter,fastapi,flask,nodejs,postgresql,docker,git,linux,vscode&perline=8" />
 </div>
 
 <details>
-<summary><b> Libraries & Tools</b></summary>
+<summary><b>Libraries & Tools</b></summary>
 
 - **Languages:** Python, SQL, JavaScript  
 - **ML / DL:** PyTorch, TensorFlow, Scikit-learn, Keras  
 - **CV & NLP:** OpenCV  
 - **Backend:** Flask, FastAPI  
-- **Tools:** Docker, Git, VSCode, Google Colab, Streamlit  
+- **Data & DB:** PostgreSQL  
+- **Tools:** Docker, Git, Linux, VS Code, Google Colab, Streamlit  
 
 </details>
 
 ---
 
 ## Connect With Me
-- 💼: https://www.linkedin.com/in/berkebozyigit/
-- ✉️: berkebzt@gmail.com
+
+- 💼 LinkedIn: https://www.linkedin.com/in/berkebozyigit/  
+- ✉️ Email: berkebzt@gmail.com
