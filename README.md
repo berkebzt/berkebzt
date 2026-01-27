@@ -23,7 +23,7 @@ Research-oriented engineer working at the intersection of
 
 ## About Me
 
-I’m an **AI/ML Engineer & Data Scientist** with an academic background in Artificial Intelligence.  
+I’m an **AI/ML Engineer & Data Scientist** with an academic background in Computer Science and Artificial Intelligence.  
 My work focuses on **understanding and improving how neural networks learn**, not just using them as black boxes.
 
 I’m especially interested in:
