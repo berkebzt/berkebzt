@@ -1,87 +1,127 @@
 <div align="center">
 
-# Hi, I’m Berke 👋
+# Hi 👋, I’m Berke!
 
-**AI/ML Engineer & Data Scientist**  
-*MSc in Artificial Intelligence — University of York*
+**AI / ML Engineer · Research-Oriented AI/ML Engineer**  
+*MSc Artificial Intelligence — University of York*
 
-Research-oriented engineer working at the intersection of  
-**deep learning, explainable AI, and neural architecture design**.
+I build, analyze, and question how neural networks **actually learn**.
 
 <p>
   <a href="https://www.linkedin.com/in/berkebozyigit/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-berkebozyigit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-berkebozyigit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:berkebzt@gmail.com">
-    <img src="https://img.shields.io/badge/Email-berkebzt@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-berkebzt@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=berkebzt&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=berkebzt&style=for-the-badge"/>
 </p>
 
 </div>
 
 ---
 
-## About Me
-I’m an **AI/ML Engineer & Data Scientist** with an academic background in Artificial Intelligence.  
-My work focuses on **understanding and improving how neural networks learn**, not just using them as black boxes.
+## 🧠 About Me
 
-I’m especially interested in:
-- Alternative neural computation paradigms  
-- Explainability and interpretability in deep learning  
-- Bridging theory with practical ML systems  
+I’m an **AI/ML Engineer & Data Scientist** with a strong academic background and a practical engineering mindset.
+
+Rather than treating neural networks as black boxes,  
+I focus on **understanding, modifying, and extending their internal mechanics**.
+
+> I enjoy working at the intersection of **theory, implementation, and experimentation**.
 
 ---
 
-## Featured Project
+## 🚀 What I’m Working On
 
-### Novel Artificial Neurons  
-**MSc Dissertation Project**
+- 🧪 Research on **alternative artificial neuron designs**
+- 🧠 Learnable & nonlinear aggregation functions
+- 🔍 Explainable AI & interpretability
+- 🤖 LLM-based systems, RAG & agentic pipelines
+- 🧩 Constraint Programming & AI Search
+
+---
+
+## ⭐ Featured Project
+
+### 🧬 Novel Artificial Neurons  
+**MSc Dissertation · Departmental Best Project Award**
 
 🔗 **Repository:**  
 👉 https://github.com/berkebzt/novel-artificial-neurons
 
-**Exploring nonlinear aggregation functions in artificial neurons**
+This project explores **non-standard neuron aggregation mechanisms** beyond the classical weighted sum.
 
-This project investigates **alternative neuron aggregation mechanisms** beyond the standard weighted sum, aiming to improve representational capacity and learning dynamics in neural networks.
-
-**Key aspects:**
-- Designed and implemented **novel nonlinear aggregation functions**
-- Compared against standard neuron formulations
-- Evaluated on supervised learning benchmarks
-- Implemented in **PyTorch**
-- Focus on **theoretical motivation + empirical validation**
+**Highlights:**
+- Custom PyTorch neuron layers
+- Novel nonlinear aggregation functions
+- Baseline comparisons vs standard MLPs
+- Emphasis on learning dynamics & representation power
+- Theory-driven + empirically validated
 
 ---
 
-## 🔎 Research & Technical Interests
-- Machine Learning, Deep Learning, LLM-based Systems  
-- Neural Architectures & Representation Learning  
-- Explainable AI & Interpretability  
-- Constraint Programming & AI Search  
-- Retrieval-Augmented Generation (RAG) & Agentic AI  
+## 🔍 Research & Technical Interests
+
+- Deep Learning & Representation Learning  
+- Explainable AI (XAI)  
+- Neural Architecture Design  
+- Constraint Programming & Search  
+- LLMs, RAG & Agentic AI  
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
+###  Core Languages
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,flask,js,ts,docker,git,linux,postgresql&perline=11" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,sql&perline=8"/>
 </div>
 
-<details>
-<summary><b> Libraries & Tools</b></summary>
+---
 
-- **Languages:** Python, SQL, JavaScript  
-- **ML / DL:** PyTorch, TensorFlow, Scikit-learn, Keras  
-- **CV & NLP:** OpenCV  
-- **Backend:** Flask, FastAPI  
-- **Tools:** Docker, Git, VSCode, Google Colab, Streamlit  
+###  Machine Learning & AI
+<div align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=8"/>
+</div>
+
+---
+
+###  Backend & APIs
+<div align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs&perline=8"/>
+</div>
+
+---
+
+###  DevOps & Tooling
+<div align="center">
+<img src="https://skillicons.dev/icons?i=docker,git,linux,postgresql,vscode&perline=8"/>
+</div>
+
+---
+
+<details>
+<summary><b> Additional Tools & Platforms</b></summary>
+
+- Google Colab  
+- Streamlit  
+- Jupyter Notebook  
+- GitHub Actions  
+- Cursor / VS Code  
 
 </details>
 
 ---
 
-## Connect With Me
-- 💼: https://www.linkedin.com/in/berkebozyigit/
-- ✉️: berkebzt@gmail.com
+## 🤝 Let’s Connect
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/berkebozyigit/  
+- ✉️ **Email:** berkebzt@gmail.com  
+
+---
+
+<sub>
+GitHub language statistics reflect public repositories only  
+and do not fully represent research depth or professional experience.
+</sub>
