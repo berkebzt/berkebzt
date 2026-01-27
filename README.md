@@ -68,12 +68,38 @@ This project investigates **alternative neuron aggregation mechanisms** beyond t
 
 <div align="center">
 
-<!-- Core Technologies -->
-<img src="https://skillicons.dev/icons?i=python,js,ts,pytorch,tensorflow,sklearn,opencv,fastapi,flask,nodejs,postgres,docker,git,linux,vscode&perline=8" />
+<!-- 1) Main Stack (Skillicons - stable) -->
+<img src="https://skillicons.dev/icons?i=
+python,
+js,
+ts,
+react,
+angular,
+nodejs,
+django,
+fastapi,
+flask,
+postgres,
+mongodb,
+docker,
+kubernetes,
+nginx,
+git,
+linux,
+vscode,
+figma,
+graphql,
+tensorflow,
+pytorch,
+azure,
+aws,
+cs,
+dotnet
+&perline=12" />
 
 <br/><br/>
 
-<!-- AI / Research / Libraries (SimpleIcons ONLY) -->
+<!-- 2) AI / Research / Platforms (SimpleIcons - stable) -->
 <p>
   <img height="46" src="https://cdn.simpleicons.org/openai/FFFFFF" alt="OpenAI"/>
   <img height="46" src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="Hugging Face"/>
@@ -81,6 +107,15 @@ This project investigates **alternative neuron aggregation mechanisms** beyond t
   <img height="46" src="https://cdn.simpleicons.org/googlecolab/F9AB00" alt="Google Colab"/>
   <img height="46" src="https://cdn.simpleicons.org/weightsandbiases/FFBE00" alt="Weights & Biases"/>
   <img height="46" src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="Streamlit"/>
+</p>
+
+<br/>
+
+<!-- 3) Extras (SimpleIcons - add anything missing here) -->
+<p>
+  <img height="46" src="https://cdn.simpleicons.org/rabbitmq/FF6600" alt="RabbitMQ"/>
+  <img height="46" src="https://cdn.simpleicons.org/redis/DC382D" alt="Redis"/>
+  <img height="46" src="https://cdn.simpleicons.org/selenium/43B02A" alt="Selenium"/>
 </p>
 
 </div>
