@@ -73,7 +73,7 @@ This project investigates **alternative neuron aggregation mechanisms** beyond t
 
 <br/><br/>
 
-<!-- AI / Research / Platforms -->
+<!-- AI / Research / Libraries (SimpleIcons ONLY) -->
 <p>
   <img height="46" src="https://cdn.simpleicons.org/openai/FFFFFF" alt="OpenAI"/>
   <img height="46" src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="Hugging Face"/>
@@ -85,7 +85,6 @@ This project investigates **alternative neuron aggregation mechanisms** beyond t
 
 </div>
 
-<details>
 <summary><b>Libraries & Tools</b></summary>
 
 - **Languages:** Python, SQL, JavaScript  
