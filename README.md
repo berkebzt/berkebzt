@@ -67,57 +67,7 @@ This project investigates **alternative neuron aggregation mechanisms** beyond t
 ## Tech Stack
 
 <div align="center">
-
-<!-- 1) Main Stack (Skillicons - stable) -->
-<img src="https://skillicons.dev/icons?i=
-python,
-js,
-ts,
-react,
-angular,
-nodejs,
-django,
-fastapi,
-flask,
-postgres,
-mongodb,
-docker,
-kubernetes,
-nginx,
-git,
-linux,
-vscode,
-figma,
-graphql,
-tensorflow,
-pytorch,
-azure,
-aws,
-cs,
-dotnet
-&perline=12" />
-
-<br/><br/>
-
-<!-- 2) AI / Research / Platforms (SimpleIcons - stable) -->
-<p>
-  <img height="46" src="https://cdn.simpleicons.org/openai/FFFFFF" alt="OpenAI"/>
-  <img height="46" src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="Hugging Face"/>
-  <img height="46" src="https://cdn.simpleicons.org/jupyter/F9AB00" alt="Jupyter"/>
-  <img height="46" src="https://cdn.simpleicons.org/googlecolab/F9AB00" alt="Google Colab"/>
-  <img height="46" src="https://cdn.simpleicons.org/weightsandbiases/FFBE00" alt="Weights & Biases"/>
-  <img height="46" src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="Streamlit"/>
-</p>
-
-<br/>
-
-<!-- 3) Extras (SimpleIcons - add anything missing here) -->
-<p>
-  <img height="46" src="https://cdn.simpleicons.org/rabbitmq/FF6600" alt="RabbitMQ"/>
-  <img height="46" src="https://cdn.simpleicons.org/redis/DC382D" alt="Redis"/>
-  <img height="46" src="https://cdn.simpleicons.org/selenium/43B02A" alt="Selenium"/>
-</p>
-
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,angular,nodejs,django,fastapi,flask,postgres,mongodb,docker,kubernetes,nginx,git,linux,vscode,figma,graphql,tensorflow,pytorch,azure,aws,cs,dotnet&perline=12" />
 </div>
 
 <summary><b>Libraries & Tools</b></summary>
