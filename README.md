@@ -67,7 +67,7 @@ This project investigates **alternative neuron aggregation mechanisms** beyond t
 ## Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,angular,nodejs,django,fastapi,flask,postgres,mongodb,docker,kubernetes,nginx,git,linux,vscode,figma,graphql,tensorflow,pytorch,azure,aws,cs,dotnet&perline=12" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,angular,nodejs,django,fastapi,flask,postgres,docker,kubernetes,git,linux,vscode,graphql,tensorflow,pytorch,aws&perline=12" />
 </div>
 
 <summary><b>Libraries & Tools</b></summary>
