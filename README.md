@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I’m Berke 👋
+# Hi, I’m Berke 
 
 **AI/ML Engineer & Data Scientist**  
 *MSc in Artificial Intelligence — University of York*
